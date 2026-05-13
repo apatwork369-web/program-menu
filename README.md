@@ -1,5 +1,3 @@
-[RMIEC_Ecosystem_Final.html](https://github.com/user-attachments/files/27729419/RMIEC_Ecosystem_Final.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
